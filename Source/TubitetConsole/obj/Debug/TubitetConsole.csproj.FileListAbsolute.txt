@@ -1,0 +1,36 @@
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\bin\Debug\TubitetConsole.exe.config
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\bin\Debug\TubitetConsole.exe
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\bin\Debug\TubitetConsole.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\bin\Debug\TubitetClasses.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\bin\Debug\MySql.Data.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\bin\Debug\FluentMigrator.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\bin\Debug\TubitetClasses.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\bin\Debug\FluentMigrator.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\bin\Debug\FluentMigrator.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\obj\Debug\TubitetConsole.csprojResolveAssemblyReference.cache
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\obj\Debug\TubitetConsole.exe
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetConsole\obj\Debug\TubitetConsole.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\bin\Debug\TubitetConsole.exe.config
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\bin\Debug\TubitetConsole.exe
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\bin\Debug\TubitetConsole.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\bin\Debug\TubitetClasses.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\bin\Debug\MySql.Data.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\bin\Debug\FluentMigrator.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\bin\Debug\TubitetClasses.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\bin\Debug\FluentMigrator.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\bin\Debug\FluentMigrator.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\obj\Debug\TubitetConsole.csprojResolveAssemblyReference.cache
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\obj\Debug\TubitetConsole.exe
+C:\Users\AKSEL\Desktop\Tubitet\TubitetConsole\obj\Debug\TubitetConsole.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\bin\Debug\TubitetConsole.exe.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\bin\Debug\TubitetConsole.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\bin\Debug\TubitetConsole.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\bin\Debug\TubitetClasses.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\bin\Debug\MySql.Data.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\bin\Debug\FluentMigrator.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\bin\Debug\TubitetClasses.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\bin\Debug\FluentMigrator.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\bin\Debug\FluentMigrator.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\obj\Debug\TubitetConsole.csprojResolveAssemblyReference.cache
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\obj\Debug\TubitetConsole.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetConsole\obj\Debug\TubitetConsole.pdb

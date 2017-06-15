@@ -1,0 +1,192 @@
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\csc.exe
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\vbc.exe
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\TubitetWebAPI.dll.config
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\TubitetWebAPI.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\TubitetWebAPI.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Helpers.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Http.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Mvc.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Optimization.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Razor.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\TubitetClasses.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\WebGrease.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\MySql.Data.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\FluentMigrator.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\TubitetClasses.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Helpers.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Mvc.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Optimization.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Razor.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Http.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\FluentMigrator.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\bin\FluentMigrator.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\obj\Debug\TubitetWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\obj\Debug\TubitetWebAPI.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetWebAPI\obj\Debug\TubitetWebAPI.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\csc.exe
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\vbc.exe
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\TubitetWebAPI.dll.config
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\TubitetWebAPI.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\TubitetWebAPI.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Helpers.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Http.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Mvc.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Optimization.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Razor.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\TubitetClasses.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\WebGrease.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\MySql.Data.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\FluentMigrator.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\TubitetClasses.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Helpers.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Mvc.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Optimization.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Razor.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Http.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\FluentMigrator.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\bin\FluentMigrator.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\obj\Debug\TubitetWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\obj\Debug\TubitetWebAPI.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetWebAPI\obj\Debug\TubitetWebAPI.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\csc.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\csc.exe.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\csc.rsp
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\csi.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\csi.exe.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\csi.rsp
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.AppContext.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Console.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\vbc.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\vbc.exe.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\vbc.rsp
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\TubitetWebAPI.dll.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\TubitetWebAPI.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\TubitetWebAPI.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Helpers.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Http.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Mvc.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Optimization.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Razor.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.WebPages.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\TubitetClasses.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\WebGrease.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\MySql.Data.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\FluentMigrator.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\TubitetClasses.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\Antlr3.Runtime.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Helpers.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Mvc.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Optimization.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Razor.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.WebPages.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Http.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\FluentMigrator.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\bin\FluentMigrator.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\obj\Debug\TubitetWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\obj\Debug\TubitetWebAPI.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetWebAPI\obj\Debug\TubitetWebAPI.pdb

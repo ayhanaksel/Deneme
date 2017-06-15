@@ -1,0 +1,134 @@
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\obj\Debug\TubitetBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\TubitetBackEnd.dll.config
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\TubitetBackEnd.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\TubitetBackEnd.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\Ext.Net.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\Ext.Net.Utilities.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\Newtonsoft.Json.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\Transformer.NET.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\TubitetClasses.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\WebActivatorEx.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\MySql.Data.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\FluentMigrator.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\TubitetClasses.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\Ext.Net.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\Ext.Net.Utilities.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\Newtonsoft.Json.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\Transformer.NET.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\FluentMigrator.pdb
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\bin\FluentMigrator.xml
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\obj\Debug\TubitetBackEnd.dll
+C:\Users\ctaskin\Google Drive\Tubitet\Tubitet\TubitetBackEnd\obj\Debug\TubitetBackEnd.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\TubitetBackEnd.dll.config
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\TubitetBackEnd.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\TubitetBackEnd.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\Ext.Net.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\Ext.Net.Utilities.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\Newtonsoft.Json.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\Transformer.NET.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\TubitetClasses.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\WebActivatorEx.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\MySql.Data.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\FluentMigrator.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\TubitetClasses.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\Ext.Net.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\Ext.Net.Utilities.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\Newtonsoft.Json.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\Transformer.NET.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\FluentMigrator.pdb
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\bin\FluentMigrator.xml
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\obj\Debug\TubitetBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\obj\Debug\TubitetBackEnd.dll
+C:\Users\AKSEL\Desktop\Tubitet\TubitetBackEnd\obj\Debug\TubitetBackEnd.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\TubitetBackEnd.dll.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\TubitetBackEnd.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\TubitetBackEnd.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\Ext.Net.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\Ext.Net.Utilities.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\Newtonsoft.Json.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\Transformer.NET.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\TubitetClasses.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\WebActivatorEx.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\MySql.Data.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\FluentMigrator.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\TubitetClasses.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\Ext.Net.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\Ext.Net.Utilities.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\Newtonsoft.Json.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\Transformer.NET.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\FluentMigrator.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\FluentMigrator.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\obj\Debug\TubitetBackEnd.csprojResolveAssemblyReference.cache
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\obj\Debug\TubitetBackEnd.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\obj\Debug\TubitetBackEnd.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\TubitetWebAPI.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Optimization.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Mvc.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Http.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Http.WebHost.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Razor.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.WebPages.Razor.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.WebPages.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Net.Http.Formatting.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\TubitetWebAPI.pdb
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Optimization.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Mvc.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Http.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Http.WebHost.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.Razor.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.WebPages.Razor.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.WebPages.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Net.Http.Formatting.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\csc.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\csc.exe.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\csc.rsp
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\csi.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\csi.exe.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\csi.rsp
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.AppContext.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Console.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.IO.Compression.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.IO.Pipes.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Security.Claims.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Threading.Thread.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.ValueTuple.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Xml.XPath.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\vbc.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\vbc.exe.config
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\vbc.rsp
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\VBCSCompiler.exe
+C:\Users\AKSEL\Desktop\Proje\Tubitet(Cem Hoca)\TubitetBackEnd\bin\roslyn\VBCSCompiler.exe.config
